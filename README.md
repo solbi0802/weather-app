@@ -1,4 +1,4 @@
 # weather-app
 Learning React Native by Building a Weather App
-
-[결과물](./image/result.PNG)
+- Expo, Styles on React Native, Font Icons, Data Fetching, Geolocation, Permissions4
+- [결과물](./image/result.PNG)
